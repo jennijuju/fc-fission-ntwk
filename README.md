@@ -64,7 +64,7 @@ We hope to get a stable 512MiB testnet running by the end of the year! If you ar
 - no faucet
 - network params might change
 - no notary
-- non public in the sense of not being able to get FIL for mining automatically - we nned to keep track of a few prams regarding mining participants and have o faucet yet
+- non public in the sense of not being able to get FIL for mining automatically - we need to keep track of a few prams regarding mining participants and have no faucet yet
 
 ### November 2021 - Public Alpha testing 
 
