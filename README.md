@@ -49,6 +49,11 @@ The network is in a very early testing phase. There is no faucet and therefore i
 - 2 miner with 50GB each running
 - 2 nodes
 
+### WaitSeed
+
+- 10 minutes
+
+
 ## Fission Network planned timeline 
 
 We hope to get a stable 512MiB testnet running by the end of the year! If you are interested in running a node or permanent miners please let us know.
@@ -59,6 +64,7 @@ We hope to get a stable 512MiB testnet running by the end of the year! If you ar
 - no faucet
 - network params might change
 - no notary
+- non public in the sense of not being able to get FIL for mining automatically - we nned to keep track of a few prams regarding mining participants and have o faucet yet
 
 ### November 2021 - Public Alpha testing 
 
@@ -68,3 +74,7 @@ We hope to get a stable 512MiB testnet running by the end of the year! If you ar
 ### December 2021 - Public Beta testing
 
 - stable network params
+
+### 1st of January 2022 
+
+- stable non test test network live
