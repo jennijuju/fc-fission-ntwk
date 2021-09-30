@@ -8,13 +8,13 @@ Attention! This is all very pre alpha testing and might be unstable.
 
 ## Installation
 
-The setup of a fission network node and miner floww the normal lotus setup steps. Please refer to the lotus docs:
+The setup of a fission network node and miner follows the normal lotus setup steps. Please refer to the lotus docs:
 
 Node setup: https://docs.filecoin.io/get-started/lotus/installation
 
 Miner setup: https://docs.filecoin.io/mine/lotus/miner-setup
 
-Instead of cloning and uilding the original lotus repo, clone and build:
+Instead of cloning and building the original lotus, clone and build:
 
 `git clone https://github.com/Factor8Solutions/lotus`
 
@@ -24,7 +24,13 @@ Instead of cloning and uilding the original lotus repo, clone and build:
 
 `make clean fissionnet`
 
-Follow the normal steps on how to run a node and/or a miner. 
+Follow the normal steps on how to run a node and/or a miner in the documentation.
+
+When initializing the miner use:
+
+`lotus-miner fetch-params 512MiB`
+
+`lotus-miner init [.....] --sector-size 512MiB`
 
 ## Facts about Fission Network
 
