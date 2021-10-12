@@ -6,7 +6,7 @@ Attention! This is all very pre alpha testing and might be unstable.
 
 ~~8th of October 2021 - UTC+8 morning~~
 
-- whenever lotus 1.13.0 is released (check here: https://github.com/filecoin-project/lotus/discussions/7431)
+- whenever lotus 1.12.0 is released (check here: https://github.com/filecoin-project/lotus/discussions/7431)
 
 
 
